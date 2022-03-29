@@ -9,6 +9,3 @@ Alumno/a: Neri Sánchez González - Pola
 
 URL del repositorio:
 https://github.com/nerisg82/Tarea_docker
-
-enlace al video de la tarea:
-https://www.loom.com/share/d52339f8239940f5855c5ebedb0aef2c
